@@ -1,0 +1,6 @@
+D:\VisualStudio\Homework-Methods\04.FirstLarger\bin\Debug\04.FirstLarger.exe.config
+D:\VisualStudio\Homework-Methods\04.FirstLarger\bin\Debug\04.FirstLarger.exe
+D:\VisualStudio\Homework-Methods\04.FirstLarger\bin\Debug\04.FirstLarger.pdb
+D:\VisualStudio\Homework-Methods\04.FirstLarger\obj\Debug\04.FirstLarger.exe
+D:\VisualStudio\Homework-Methods\04.FirstLarger\obj\Debug\04.FirstLarger.pdb
+D:\VisualStudio\Homework-Methods\04.FirstLarger\obj\Debug\04.FirstLarger.csprojResolveAssemblyReference.cache
