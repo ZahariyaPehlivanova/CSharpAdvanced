@@ -1,0 +1,6 @@
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\09.TerroristsWin\bin\Debug\09.TerroristsWin.exe.config
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\09.TerroristsWin\bin\Debug\09.TerroristsWin.exe
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\09.TerroristsWin\bin\Debug\09.TerroristsWin.pdb
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\09.TerroristsWin\obj\Debug\09.TerroristsWin.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\09.TerroristsWin\obj\Debug\09.TerroristsWin.exe
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\09.TerroristsWin\obj\Debug\09.TerroristsWin.pdb

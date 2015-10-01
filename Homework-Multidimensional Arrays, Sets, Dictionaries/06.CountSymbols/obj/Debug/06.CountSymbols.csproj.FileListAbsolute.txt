@@ -1,0 +1,1 @@
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config

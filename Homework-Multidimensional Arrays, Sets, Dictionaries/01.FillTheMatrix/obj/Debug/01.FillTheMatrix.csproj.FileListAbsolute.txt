@@ -1,0 +1,6 @@
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb

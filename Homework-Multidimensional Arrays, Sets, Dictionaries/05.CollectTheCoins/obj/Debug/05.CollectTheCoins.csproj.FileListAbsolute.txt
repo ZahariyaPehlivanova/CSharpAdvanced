@@ -1,0 +1,6 @@
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.exe.config
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.exe
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\bin\Debug\05.CollectTheCoins.pdb
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.exe
+D:\VisualStudio\Homework-Multidimensional Arrays, Sets, Dictionaries\05.CollectTheCoins\obj\Debug\05.CollectTheCoins.pdb
