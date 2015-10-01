@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb

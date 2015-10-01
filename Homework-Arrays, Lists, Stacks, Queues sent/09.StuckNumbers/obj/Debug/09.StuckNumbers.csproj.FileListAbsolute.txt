@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

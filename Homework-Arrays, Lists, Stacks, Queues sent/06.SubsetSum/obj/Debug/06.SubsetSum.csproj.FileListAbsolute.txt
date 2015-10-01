@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\06.SubsetSum\bin\Debug\06.SubsetSum.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\06.SubsetSum\bin\Debug\06.SubsetSum.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\06.SubsetSum\bin\Debug\06.SubsetSum.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\06.SubsetSum\obj\Debug\06.SubsetSum.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\06.SubsetSum\obj\Debug\06.SubsetSum.pdb

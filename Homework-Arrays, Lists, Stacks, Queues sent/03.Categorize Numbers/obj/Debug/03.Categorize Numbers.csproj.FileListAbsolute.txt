@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\03.Categorize Numbers\bin\Debug\03.Categorize Numbers.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\03.Categorize Numbers\bin\Debug\03.Categorize Numbers.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\03.Categorize Numbers\bin\Debug\03.Categorize Numbers.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\03.Categorize Numbers\obj\Debug\03.Categorize Numbers.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\03.Categorize Numbers\obj\Debug\03.Categorize Numbers.pdb

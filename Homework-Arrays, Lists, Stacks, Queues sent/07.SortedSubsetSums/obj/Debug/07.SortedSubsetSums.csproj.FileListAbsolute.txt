@@ -1,0 +1,6 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb

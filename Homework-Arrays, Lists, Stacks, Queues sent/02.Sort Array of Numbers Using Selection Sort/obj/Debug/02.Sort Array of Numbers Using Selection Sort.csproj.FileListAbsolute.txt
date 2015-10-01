@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\02.Sort Array of Numbers Using Selection Sort\bin\Debug\02.Sort Array of Numbers Using Selection Sort.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\02.Sort Array of Numbers Using Selection Sort\bin\Debug\02.Sort Array of Numbers Using Selection Sort.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\02.Sort Array of Numbers Using Selection Sort\bin\Debug\02.Sort Array of Numbers Using Selection Sort.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\02.Sort Array of Numbers Using Selection Sort\obj\Debug\02.Sort Array of Numbers Using Selection Sort.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\02.Sort Array of Numbers Using Selection Sort\obj\Debug\02.Sort Array of Numbers Using Selection Sort.pdb

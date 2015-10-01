@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.pdb

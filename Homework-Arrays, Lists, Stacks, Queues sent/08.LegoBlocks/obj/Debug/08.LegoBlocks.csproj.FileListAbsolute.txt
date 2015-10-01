@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\08.LegoBlocks\bin\Debug\08.LegoBlocks.pdb
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb
