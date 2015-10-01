@@ -3,3 +3,6 @@ D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug
 D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
 D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
 D:\VisualStudio\Homework-Arrays, Lists, Stacks, Queues\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb
+D:\свалени\CSharpAdvanced\Homework-Arrays, Lists, Stacks, Queues sent\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+D:\свалени\CSharpAdvanced\Homework-Arrays, Lists, Stacks, Queues sent\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+D:\свалени\CSharpAdvanced\Homework-Arrays, Lists, Stacks, Queues sent\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

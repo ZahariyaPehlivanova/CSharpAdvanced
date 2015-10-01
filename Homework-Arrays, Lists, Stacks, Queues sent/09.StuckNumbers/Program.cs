@@ -13,6 +13,7 @@ namespace _09.StuckNumbers
             string input = Console.ReadLine();
             string[] num = input.Split(' ');
 
+
             for (int a = 0; a < n; a++)
             {
                 for (int b = 0; b < n; b++)
