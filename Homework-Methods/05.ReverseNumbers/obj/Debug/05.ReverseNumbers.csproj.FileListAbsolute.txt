@@ -1,5 +1,0 @@
-D:\VisualStudio\Homework-Methods\05.ReverseNumbers\bin\Debug\05.ReverseNumbers.exe.config
-D:\VisualStudio\Homework-Methods\05.ReverseNumbers\bin\Debug\05.ReverseNumbers.exe
-D:\VisualStudio\Homework-Methods\05.ReverseNumbers\bin\Debug\05.ReverseNumbers.pdb
-D:\VisualStudio\Homework-Methods\05.ReverseNumbers\obj\Debug\05.ReverseNumbers.exe
-D:\VisualStudio\Homework-Methods\05.ReverseNumbers\obj\Debug\05.ReverseNumbers.pdb

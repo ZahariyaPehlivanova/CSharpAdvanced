@@ -1,1 +1,0 @@
-D:\VisualStudio\Homework-Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
