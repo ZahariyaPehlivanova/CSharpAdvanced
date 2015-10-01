@@ -1,0 +1,5 @@
+D:\VisualStudio\Homework-Methods\03.Larger Than Neighbours\bin\Debug\03.Larger Than Neighbours.exe.config
+D:\VisualStudio\Homework-Methods\03.Larger Than Neighbours\bin\Debug\03.Larger Than Neighbours.exe
+D:\VisualStudio\Homework-Methods\03.Larger Than Neighbours\bin\Debug\03.Larger Than Neighbours.pdb
+D:\VisualStudio\Homework-Methods\03.Larger Than Neighbours\obj\Debug\03.Larger Than Neighbours.exe
+D:\VisualStudio\Homework-Methods\03.Larger Than Neighbours\obj\Debug\03.Larger Than Neighbours.pdb
