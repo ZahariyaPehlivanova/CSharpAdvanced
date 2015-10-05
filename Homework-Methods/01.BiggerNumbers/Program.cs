@@ -10,10 +10,9 @@ class Program
     {
         int firstNumber = int.Parse(Console.ReadLine());
         int secondNumber = int.Parse(Console.ReadLine());
-        int bigger = 0;
+        
         Console.WriteLine(GetMax(firstNumber, secondNumber));
-
-    }
+        }
     static int GetMax(int num1, int num2)
     {
         int max = 0;

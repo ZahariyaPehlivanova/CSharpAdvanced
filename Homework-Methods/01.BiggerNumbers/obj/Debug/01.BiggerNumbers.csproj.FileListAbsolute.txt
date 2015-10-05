@@ -4,3 +4,6 @@ D:\VisualStudio\Homework-Methods\01.BiggerNumbers\bin\Debug\01.BiggerNumbers.pdb
 D:\VisualStudio\Homework-Methods\01.BiggerNumbers\obj\Debug\01.BiggerNumbers.csprojResolveAssemblyReference.cache
 D:\VisualStudio\Homework-Methods\01.BiggerNumbers\obj\Debug\01.BiggerNumbers.exe
 D:\VisualStudio\Homework-Methods\01.BiggerNumbers\obj\Debug\01.BiggerNumbers.pdb
+D:\свалени\CSharpAdvanced\Homework-methods\01.BiggerNumbers\bin\Debug\01.BiggerNumbers.exe.config
+D:\свалени\CSharpAdvanced\Homework-methods\01.BiggerNumbers\obj\Debug\01.BiggerNumbers.exe
+D:\свалени\CSharpAdvanced\Homework-methods\01.BiggerNumbers\obj\Debug\01.BiggerNumbers.pdb
